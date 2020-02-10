@@ -1,0 +1,302 @@
+
+@font-face {
+font-family: 'Montserrat ExtraBold Italic';
+font-style: normal;
+font-weight: normal;
+src: local('MontserratExtraBoldItalic.eot'), 
+   url('https://github.com/JulietaUla/Montserrat/blob/master/fonts/webfonts/Montserrat-BoldItalic.woff2') format('woff2');
+}
+
+
+#fundo {
+    background-image: url(https://funkyimg.com/i/326o3.png);
+   background-repeat: no-repeat;
+   
+}
+
+#cima #logo {
+   background: url(https://funkyimg.com/i/324XN.png);
+   height: 150px;
+   width: 1000px;
+   background-repeat: no-repeat;
+   position: relative;
+   top: 130px;
+}
+
+#nav>ul {
+   background-color: white;
+   border-radius: 50px;
+   position: relative;
+   top: -90px;
+}
+
+#nav .btn {
+   background: white;
+   border-color: transparent;
+   color: #0a92bd!important;
+}
+
+.btn span {
+   color: #da3032!important;
+}
+
+#nav>ul>li>a {
+   font-size: 9px;
+  font-family: "Arial";
+  color: rgb(183, 55, 54);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+   text-transform: uppercase;
+}
+
+#secaoNav {
+   position: relative;
+   top: 100px;
+   left: 20px;
+}
+
+#secaoNav, #secaoNav a {
+   color: white;
+}
+
+#secaoNav li {
+   background-color: #0a92bd;
+   color: white;
+}
+
+#meio .btn {
+   background-color: rgb(37, 116, 165);
+  position: relative;
+   color: white;
+   text-transform: uppercase;
+   font-size: 10px;
+   top: 100px;
+}
+
+.usuario {
+   color: #df3235;
+}
+
+.usuario:link {
+   text-decoration:none;
+}
+
+.usuario:hover {
+   color: #df3235;
+}
+
+.boxConteudo h1 {
+   background-image: url(https://funkyimg.com/i/3252L.png)!important;
+}
+
+.boxConteudo h1 a {
+   font-size: 24px;
+  font-family: Arial;
+  color: rgb(223, 59, 58);
+  line-height: 1.2;
+   font-style: italic;
+   position: relative;
+   top: 40px!important;
+    left: 245px!important;
+}
+
+#boxUsuario .informacoes {
+   position: relative;
+   top: 20px;
+   left: 100px;
+}
+
+.textoBg1, tr.textoBg1 td {
+   background-color: white!important;
+   border-radius: 0px;
+}
+
+.boxConteudo .btn {
+   position: relative!important;
+   top: 60px!important;
+   left: -35px;
+}
+
+#cphTopo_imgUsuarioFoto {
+   position: relative;
+   top: -20px!Important;
+}
+
+#cphTopo_imgUsuarioAvatar {
+   position: relative;
+   border-radius: 100px;
+   left: 100px;
+   top: -15px;
+}
+
+.textoDescricao {
+    font-size: 12px;
+  font-family: "Montserrat";
+  color: rgb(223, 50, 53);
+  font-weight: bold;
+  font-style: italic;
+  line-height: 1.2;
+  text-align: center;
+   position: relative;
+   left: 95px;
+   top: -10px;
+}
+
+.boxConteudo .textoBg1, .boxConteudo tr.textoBg1 td{
+   background-color: white!Important;
+}
+
+#boxUsuario .informacoes strong {
+   color: #df3235;
+   font-weight: bold
+}
+
+#boxUsuario .informacoes {
+   color: #0099cc;
+   font-weight: bold
+}
+
+.boxConteudo .baixo {
+   background-image: url(https://funkyimg.com/i/3255G.png);
+      text-align: center!important;
+}
+
+#boxUsuario .baixo ul li a {
+   color: #df3235;
+   font-family: Arial;
+   font-size: 10px!Important;
+   text-transform: uppercase;
+}
+
+#boxUsuario .avatar {
+   background-image: url(https://funkyimg.com/i/3253v.png);
+   position: relative;
+   left: -4.41px;
+   top: -4.41px;
+}
+
+.boxConteudo .titulo, .boxConteudo h1, .boxConteudo h2 {
+   background-image: url(https://funkyimg.com/i/3257p.png);
+   color: #df3235;
+   font-size: 12px;
+}
+
+h1.tituloPrincipal strong, h2.tituloPrincipal strong {
+   font-size: 16px!Important;
+   color: #de2e2f;
+}
+
+.boxConteudo .texto, .boxConteudo .texto p {
+   color: #686868;
+   font-size: 15px;
+   font-family: Arial;
+}
+
+.boxMenuDireito .tituloMenuDireito {
+    color: #de2e2f;
+    font-size: 13px;
+   background-image: url(https://funkyimg.com/i/326m5.png);
+   
+}
+
+.boxMenuDireito .textoMenuDireito {
+   background-color: white;
+}
+
+.textoMenuDireito a {
+   color: #de2e2f;
+   font-size: 12px;
+}
+
+.tituloMenuDireito, .tituloMenuDireito span {
+   /*fonte aqui okdoki?*/
+}
+
+.boxConteudo .textoBg2, .boxConteudo tr.textoBg2 td {
+   background-color: white!important;
+}
+
+.boxConteudo a, .boxConteudo .texto a {
+   color: #df3235;
+}
+
+#quote .quotetop {
+     font-size: 20px;
+  font-family: "Montserrat";
+  color: rgb(222, 46, 47);
+  font-weight: bold;
+  font-style: italic;
+  line-height: 1.35;
+}
+
+#quote {
+   color: #686868;
+   border-left: 3px;
+   border-right: 3px;
+   border-left-color: #ffcf77;
+   border-right-color: #ffcf77;
+}
+
+.spoiler-visible {
+   color: #686868;
+}
+
+div.spoiler {
+    background-color: #fff;
+    border-left: 7px solid #ffcf77;
+   border-right: 7px solid #ffcf77;
+    padding: 30px;
+}
+
+body::-webkit-scrollbar 
+{ 
+    width: 1px; 
+    height: 1px;
+} 
+
+body::-webkit-scrollbar-button:start:decrement, body::-webkit-scrollbar-button:end:increment 
+{ 
+        display: block;
+} 
+
+body::-webkit-scrollbar-button:vertical:start:increment, body::-webkit-scrollbar-button:vertical:end:decrement 
+{ 
+        display: none;
+} 
+
+body::-webkit-scrollbar-button:vertical:increment 
+{ 
+        background-image: url(https://funkyimg.com/i/31bGp.png);
+} 
+body::-webkit-scrollbar-button:vertical:decrement 
+{ 
+        background-image: url(https://funkyimg.com/i/31bGp.png);
+} 
+body::-webkit-scrollbar-track:vertical 
+{
+        background-image: url(https://funkyimg.com/i/31bGp.png);
+} 
+                /* ROLAGEM PARADA */
+body::-webkit-scrollbar-track-piece 
+{
+        background-image: url(https://funkyimg.com/i/31bGp.png);
+} 
+body::-webkit-scrollbar-track-piece:vertical:start 
+{
+        background-image: url(https://funkyimg.com/i/31bGp.png);
+} 
+        /* COR DA BARRINHA MESMO */
+body::-webkit-scrollbar-thumb:vertical 
+{ 
+        background-color: white;
+        height: 1px;
+        border-radius: 0px;
+} 
+body::-webkit-scrollbar 
+{ 
+        background-color: #7870a1;
+        height: auto; 
+        width: 12px;  
+
+}
